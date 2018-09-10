@@ -1,0 +1,32 @@
+button {
+    margin: 10px;
+    font-size: 1em;
+    padding: 8px;
+}
+#animal-form {
+    float: right;
+    margin-right: 50px;
+}
+.animal, #add-animal {
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+#gifs-view {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
+    margin: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+    background-color: bisque
+}
+
+form {
+    margin: 30px;
+}
